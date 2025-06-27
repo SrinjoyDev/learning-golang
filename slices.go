@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//slices are like arraylist from java in golange
+//slices are like arraylist from java in golang
 //they are typed only by the elements
 //uninit slice equals to nul and has length = 0
 func slices() {
