@@ -10,5 +10,6 @@ func main() {
 	//constants()
 	//forLoop()
 	//ifElse()
-	switchCase()
+	//switchCase()
+	arrays()
 }
