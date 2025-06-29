@@ -11,5 +11,6 @@ func main() {
 	//forLoop()
 	//ifElse()
 	//switchCase()
-	arrays()
+	//arrays()
+	slicesLearn()
 }
