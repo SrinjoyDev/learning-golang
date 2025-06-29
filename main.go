@@ -12,5 +12,7 @@ func main() {
 	//ifElse()
 	//switchCase()
 	//arrays()
-	slicesLearn()
+	//slicesLearn()
+	//hashMaps()
+	multiplereturnvalues()
 }
